@@ -35,7 +35,10 @@ instagram_username: messymompreneur
 pinterest_username: messymompreneur
 
 minima:
-  skin: auto
+  skin: classic
+  social_links:
+    - { platform: github,  user_url: "https://github.com/messymompreneur" }
+    - { platform: twitter, user_url: "https://twitter.com/messymompreneur" }
 
 # Build settings
 remote_theme: jekyll/minima
