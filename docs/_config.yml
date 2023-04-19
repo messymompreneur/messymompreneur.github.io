@@ -38,7 +38,7 @@ plugins:
 minima:
   skin: auto
   social_links:
-    - { platform: twitter, user_url: "https://twitter.com/messymompreneur" }
+    twitter: messymompreneur
     
 # Exclude from processing.
 # The following items will not be processed, by default.
