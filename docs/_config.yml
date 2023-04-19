@@ -32,13 +32,13 @@ github_username: messymompreneur
 markdown: GFM
 
 # Build settings
-theme: minima
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# theme: minima
+remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 #  - jekyll-include-cache
-minima:
-  skin: auto
+# minima:
+#   skin: auto
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
