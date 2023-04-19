@@ -34,16 +34,15 @@ twitter_username: messymompreneur
 instagram_username: messymompreneur
 pinterest_username: messymompreneur
 
+minima:
+  skin: auto
+
 # Build settings
 remote_theme: jekyll/minima
 # remote_theme: pages-themes/slate@0.2.0
 plugins:
   - jekyll-feed
-
-minima:
-  skin: auto
-  social_links:
-    twitter: messymompreneur
+  - jekyll-remote-theme
     
 # Exclude from processing.
 # The following items will not be processed, by default.
