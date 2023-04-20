@@ -29,10 +29,9 @@ domain: "messymompreneur.com"
 url: "https://messymompreneur.com" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: GFM
 
-# Social
-twitter_username: messymompreneur
-instagram_username: messymompreneur
-pinterest_username: messymompreneur
+author:
+  name: Messy Mompreneur
+  email: messymompreneur@gmail.com
 
 minima:
   social_links:
