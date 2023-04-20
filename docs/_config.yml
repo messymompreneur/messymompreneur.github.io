@@ -36,8 +36,9 @@ pinterest_username: messymompreneur
 
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/messymompreneur" }
     - { platform: twitter, user_url: "https://twitter.com/messymompreneur" }
+    - { platform: instagram, user_url: "https://instagram.com/messymompreneur" }
+    - { platform: pinterest, user_url: "https://www.pinterest.com/messymompreneur/" }
 
 # Build settings
 remote_theme: jekyll/minima
