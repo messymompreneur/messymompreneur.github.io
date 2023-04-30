@@ -24,13 +24,13 @@ layout: null
     <itunes:category text="{{ site.podcast.category-one }}">
       <itunes:category text="{{ site.podcast.subcategory-one }}"/>
     </itunes:category>  
-    <itunes:category text="{{ site.podcast.category-two}}"/>
+    <itunes:category text="{{ site.podcast.category-two}}">
       <itunes:category text="{{ site.podcast.subcategory-two }}"/>
     </itunes:category>
-    <itunes:category text="{{ site.podcast.category-three }}"/>
+    <itunes:category text="{{ site.podcast.category-three }}">
       <itunes:category text="{{ site.podcast.subcategory-three }}"/>
     </itunes:category>
-    <itunes:category text="{{ site.podcast.category-four }}"/>
+    <itunes:category text="{{ site.podcast.category-four }}">
       <itunes:category text="{{ site.podcast.subcategory-four }}"/>
     </itunes:category>
     <itunes:image>{{ site.url }}{{ site.podcast.image }}</itunes:image>
