@@ -14,5 +14,5 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 ---
 
 <audio controls>
-  <source src="assets/episodes/01-Episode.mp3">
+  <source src="{{ site.url }}{{ site.podcast.audio-file-base }}{{ post.file-name }}">
 </audio>
