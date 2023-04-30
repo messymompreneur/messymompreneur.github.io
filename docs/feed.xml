@@ -1,0 +1,56 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>{{ site.title }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <language>en-US</language>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    <itunes:author>{{ site.podcast.owner.name }}</itunes:author>
+    <itunes:description>{{ site.description }}</itunes:description>
+    <itunes:summary>{{ site.description }}</itunes:summary>
+    <itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>{{ site.podcast.owner.name }}</itunes:name>
+      <itunes:email>{{ site.email }}</itunes:email>
+    </itunes:owner>
+    <itunes:category text="{{ site.podcast.category-one }}">
+      <itunes:category text="{{ site.podcast.subcategory-one }}"/>
+    </itunes:category>  
+    <itunes:category text="{{ site.podcast.category-two}}"/>
+      <itunes:category text="{{ site.podcast.subcategory-two }}"/>
+    </itunes:category>
+    <itunes:category text="{{ site.podcast.category-three }}"/>
+      <itunes:category text="{{ site.podcast.subcategory-three }}"/>
+    </itunes:category>
+    <itunes:category text="{{ site.podcast.category-four }}"/>
+      <itunes:category text="{{ site.podcast.subcategory-four }}"/>
+    </itunes:category>
+    <itunes:image>{{ site.url }}{{ site.podcast.image }}</itunes:image>
+    {% for post in site.posts %}
+    <item>
+      <itunes:episodeType>{{ post.episode-type }}</itunes:episodeType>
+      <itunes:episode>{{ post.episode }}</itunes:episode>
+      <title>{{ post.title | xml_escape }}</title>
+      <description>{{ post.content | xml_escape }}</description>
+      <enclosure
+        length="{{ post.length }}"
+        type="{{ post.file-type }}"
+        url="{{ site.url }}{{ site.podcast.audio-file-base }}{{ post.file-name }}"
+      />
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <link>{{ post.url | prepend: site.url }}</link>
+      <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+      <itunes:duration>{{ post.duration }}</itunes.duration>
+      <itunes:explicit>{{ post.explicit }}</itunes:explicit>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
