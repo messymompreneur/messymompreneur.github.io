@@ -5,6 +5,8 @@ permalink: /about/
 keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, messy-mompreneur-podcast,  entrepreneur, entrepreneurs, motherhood, work-life balance, work-at-home-mom, working-mom, mompreneur-life, female-entrepreneur,  parenthood, parenting, parenting-podcast, parenthood-podcast,  mom-boss, mom-boss-podcast, lady-boss, lady-boss-podcast, boss-mom, boss-mom-podcast, podcast, podcasts, podcasters, podcast-show, podcast-junkie, about, about-page]
 ---
 
+<hr>
+
 Hello and welcome to the Messy Mompreneur podcast! I’m so happy to have you here!
 
 My name is Alysha Sanford and I’m your show host.
@@ -19,6 +21,8 @@ You’ll hear from fellow mompreneurs, other inspiring guests and eventually I h
 
 If you haven’t already, I’d be so grateful if you’d take a minute to subscribe to the podcast and leave a review. If you’d share this podcast with other’s that may find it helpful, that would also be incredibly appreciated. I’d really love to connect with you on social media! Shoot me a DM with any specific topics you want to hear more about or questions that you’d like me to ask fellow mompreneurs during guest interviews. You can find me on most platforms with the handle @messymompreneur. I’ll share my contact info in the show notes as well.
 
+<hr>
+
 ### Connect with Alysha
 
 - **Website:** [https://www.messymompreneur.com/](https://www.messymompreneur.com/)
@@ -28,7 +32,10 @@ If you haven’t already, I’d be so grateful if you’d take a minute to subsc
 - **Tik Tok:** [https://www.tiktok.com/@messymompreneur](https://www.tiktok.com/@messymompreneur)
 - **Email:** [messymompreneur@gmail.com](mailto:messymompreneur@gmail.com)
 
+<hr>
+
 ### Music Licensing Info
 
 Music by Eli Lev - Dancin' on the Lawn
+
 [Link](https://thmatc.co/?l=032B32EA)
