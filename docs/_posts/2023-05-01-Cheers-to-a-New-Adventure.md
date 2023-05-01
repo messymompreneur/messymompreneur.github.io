@@ -35,12 +35,12 @@ In today’s episode, I’m sharing a little of my background as a mama and an e
 
 ### Connect with Alysha
 
-- **Website:** [https://www.messymompreneur.com/](https://www.messymompreneur.com/)
-- **Instagram:** [https://www.instagram.com/messymompreneur](https://www.instagram.com/messymompreneur)
-- **Facebook:** [https://www.facebook.com/messymompreneur23](https://www.facebook.com/messymompreneur23)
-- **Pinterest:** [https://pin.it/7DTvRGw](https://pin.it/7DTvRGw)
-- **Tik Tok:** [https://www.tiktok.com/@messymompreneur](https://www.tiktok.com/@messymompreneur)
-- **Email:** [messymompreneur@gmail.com](mailto:messymompreneur@gmail.com)
+- [Website](https://www.messymompreneur.com/)
+- [Instagram](https://www.instagram.com/messymompreneur)
+- [Facebook](https://www.facebook.com/messymompreneur23)
+- [Pinterest](https://pin.it/7DTvRGw)
+- [Tik Tok](https://www.tiktok.com/@messymompreneur)
+- [Email](mailto:messymompreneur@gmail.com)
 
 <hr>
 

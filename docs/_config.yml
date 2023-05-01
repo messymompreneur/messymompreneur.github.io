@@ -48,7 +48,6 @@ podcast:
   category-three: "Education"
   subcategory-three: "Self-Improvement"
   audio-file-base: "/assets/episodes/"
-  apple-link: "https://podcasts.apple.com/us/podcast/messy-mompreneur/id1685746602"
 
 minima:
   social_links:
