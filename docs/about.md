@@ -27,6 +27,10 @@ If you haven’t already, I’d be so grateful if you’d take a minute to subsc
 
 <hr>
 
+### Listen on your favorite platform
+
+- [Apple Podcasts]({{ site.podcasts.apple-link }})
+
 ### Connect with Alysha
 
 - **Website:** [https://www.messymompreneur.com/](https://www.messymompreneur.com/)
