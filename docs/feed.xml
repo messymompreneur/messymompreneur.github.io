@@ -13,7 +13,7 @@ layout: null
     <language>en-US</language>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <itunes:author>{{ site.podcast.owner.name }}</itunes:author>
-    <itunes:description>{{ site.description }}</itunes:description>
+    <itunes:description>{{ site.podcast.description }}</itunes:description>
     <itunes:summary>{{ site.description }}</itunes:summary>
     <itunes:image href="{{ site.url }}{{ site.podcast.image }}" />
     <itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
