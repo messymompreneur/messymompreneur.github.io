@@ -11,7 +11,7 @@ Hello and welcome to the Messy Mompreneur podcast! I’m so happy to have you he
 
 My name is Alysha Sanford and I’m your show host.
 
-<p margin="20px" align="center">
+<p style="margin: 20px;" align="center">
   <img src="/assets/img/podcast-cover.png" width="65%" height="65%">
 </p>
 
