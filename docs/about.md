@@ -11,9 +11,9 @@ Hello and welcome to the Messy Mompreneur podcast! I’m so happy to have you he
 
 My name is Alysha Sanford and I’m your show host.
 
-<div margin="20px" text-align="center">
+<p margin="20px" align="center">
   <img src="/assets/img/podcast-cover.png" width="65%" height="65%">
-</div>
+</p>
 
 I’m a newer, first-time, work-at-home-mama navigating the highs and lows of entrepreneurship. Running a business, working full time, or chasing career dreams in general while also raising littles and maintaining the home can be so challenging. Especially if you don’t have a strong, local support system or aren’t great about asking for help. I personally struggle with that last one.
 
