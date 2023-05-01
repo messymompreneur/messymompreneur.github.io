@@ -42,10 +42,8 @@ podcast:
   subcategory-one: "Entrepreneurship"
   category-two: "Kids &amp; Family"
   subcategory-two: "Parenting"
-  category-three: "Society &amp; Culture"
-  subcategory-three: "Personal Journals"
-  category-four: "Education"
-  subcategory-four: "Self-Improvement"
+  category-three: "Education"
+  subcategory-three: "Self-Improvement"
   audio-file-base: "/assets/episodes/"
 
 minima:

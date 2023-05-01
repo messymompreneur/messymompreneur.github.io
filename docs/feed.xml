@@ -15,6 +15,7 @@ layout: null
     <itunes:author>{{ site.podcast.owner.name }}</itunes:author>
     <itunes:description>{{ site.description }}</itunes:description>
     <itunes:summary>{{ site.description }}</itunes:summary>
+    <itunes:image href="{{ site.url }}{{ site.podcast.image }}" />
     <itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:owner>
@@ -29,9 +30,6 @@ layout: null
     </itunes:category>
     <itunes:category text="{{ site.podcast.category-three }}">
       <itunes:category text="{{ site.podcast.subcategory-three }}"/>
-    </itunes:category>
-    <itunes:category text="{{ site.podcast.category-four }}">
-      <itunes:category text="{{ site.podcast.subcategory-four }}"/>
     </itunes:category>
     <itunes:image>{{ site.url }}{{ site.podcast.image }}</itunes:image>
     {% for post in site.posts %}
