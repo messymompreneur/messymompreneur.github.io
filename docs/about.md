@@ -29,7 +29,7 @@ If you haven’t already, I’d be so grateful if you’d take a minute to subsc
 
 ### Listen on your favorite platform
 
-- [Apple Podcasts]({{ site.podcasts.apple-link }})
+- [Apple Podcasts]({{ site.podcast.apple-link }})
 
 ### Connect with Alysha
 
