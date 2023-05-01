@@ -11,6 +11,8 @@ Hello and welcome to the Messy Mompreneur podcast! I’m so happy to have you he
 
 My name is Alysha Sanford and I’m your show host.
 
+![Messy-Mompreneur-Podcast-Cover](/assets/img/podcast-cover.png){: .mx-auto.d-block :}
+
 I’m a newer, first-time, work-at-home-mama navigating the highs and lows of entrepreneurship. Running a business, working full time, or chasing career dreams in general while also raising littles and maintaining the home can be so challenging. Especially if you don’t have a strong, local support system or aren’t great about asking for help. I personally struggle with that last one.
 
 On this podcast, I plan to touch on all aspects of mompreneur life, including productivity, time management, tips and hacks, self-care, marketing, home-making and parenting in general.
@@ -27,7 +29,7 @@ If you haven’t already, I’d be so grateful if you’d take a minute to subsc
 
 - **Website:** [https://www.messymompreneur.com/](https://www.messymompreneur.com/)
 - **Instagram:** [https://www.instagram.com/messymompreneur](https://www.instagram.com/messymompreneur)
-- **Facebook:** [https://www.facebook.com/messymomreneur23](https://www.facebook.com/messymompreneur23)
+- **Facebook:** [https://www.facebook.com/messymompreneur23](https://www.facebook.com/messymompreneur23)
 - **Pinterest:** [https://pin.it/7DTvRGw](https://pin.it/7DTvRGw)
 - **Tik Tok:** [https://www.tiktok.com/@messymompreneur](https://www.tiktok.com/@messymompreneur)
 - **Email:** [messymompreneur@gmail.com](mailto:messymompreneur@gmail.com)
