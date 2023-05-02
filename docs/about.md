@@ -30,6 +30,7 @@ If you haven’t already, I’d be so grateful if you’d take a minute to subsc
 ### Listen on your favorite platform
 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/messy-mompreneur/id1685746602)
+- [Spotify](https://open.spotify.com/show/6uGN3biwajKHhbE69SCA6Z)
 
 <hr>
 
