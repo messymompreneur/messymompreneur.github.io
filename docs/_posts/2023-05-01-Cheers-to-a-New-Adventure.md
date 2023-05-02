@@ -14,12 +14,12 @@ podcast-description: <p>Hello and Welcome!</p><p>In today’s episode, I’m sha
 keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, messy-mompreneur-podcast, entrepreneur, entrepreneurs, motherhood, work-life-balance, work-at-home-mom, working-mom, mompreneur-life, female-entrepreneur, parenthood, parenting, parenting-podcast, parenthood-podcast, mom-boss, mom-boss-podcast, lady-boss, lady-boss-podcast, boss-mom, boss-mom-podcast, podcast, podcasts, podcasters, podcast-show, podcast-junkie]
 ---
 
-<p style="padding: 20px;" align="center">
+<div style="padding: 20px;" width="65%" align="center">
   <img src="/assets/img/podcast-cover.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
     <source src="{{ site.url }}{{ site.podcast.audio-file-base }}01-Episode.mp3">
   </audio>
-</p>
+</div>
 
 Hello and welcome!
 
