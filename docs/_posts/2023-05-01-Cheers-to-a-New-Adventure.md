@@ -15,7 +15,7 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 ---
 
 <p style="padding: 20px; width: 60%;" align="center">
-  <img src="/docs/assets/img/podcast-cover.png" width="100%" height="auto">
+  <img src="/assets/img/podcast-cover.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
     <source src="{{ site.url }}{{ site.podcast.audio-file-base }}01-Episode.mp3">
   </audio>
