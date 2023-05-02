@@ -36,7 +36,7 @@ layout: null
       <itunes:episodeType>{{ post.episode-type }}</itunes:episodeType>
       <itunes:episode>{{ post.episode }}</itunes:episode>
       <title>{{ post.title | xml_escape }}</title>
-      <description><![CDATA[{{ post.content | xml_escape }}]]></description>
+      <content:encoded><![CDATA[{{ post.content | xml_escape }}]]></content:encoded>
       <enclosure
         length="{{ post.length }}"
         type="{{ post.file-type }}"
@@ -45,6 +45,7 @@ layout: null
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <link>{{ post.url | prepend: site.url }}</link>
       <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+      <itunes:keywords>{{ site.podcast.keywords-tags }}</itunes:keywords>
       <itunes:duration>{{ post.duration }}</itunes:duration>
       <itunes:explicit>{{ post.explicit }}</itunes:explicit>
     </item>

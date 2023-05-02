@@ -10,7 +10,7 @@ file-name: 01-Episode.mp3
 duration: 421
 date:   2023-05-01 07:01:00 -0700
 categories: podcast episode
-keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, messy-mompreneur-podcast,  entrepreneur, entrepreneurs, motherhood, work-life balance, work-at-home-mom, working-mom, mompreneur-life, female-entrepreneur,  parenthood, parenting, parenting-podcast, parenthood-podcast,  mom-boss, mom-boss-podcast, lady-boss, lady-boss-podcast, boss-mom, boss-mom-podcast, podcast, podcasts, podcasters, podcast-show, podcast-junkie]
+keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, messy-mompreneur-podcast, entrepreneur, entrepreneurs, motherhood, work-life-balance, work-at-home-mom, working-mom, mompreneur-life, female-entrepreneur, parenthood, parenting, parenting-podcast, parenthood-podcast, mom-boss, mom-boss-podcast, lady-boss, lady-boss-podcast, boss-mom, boss-mom-podcast, podcast, podcasts, podcasters, podcast-show, podcast-junkie]
 ---
 
 <p align="center">
@@ -36,6 +36,7 @@ In today’s episode, I’m sharing a little of my background as a mama and an e
 ### Connect with Alysha
 
 - [Website](https://www.messymompreneur.com/)
+- [Photography Website](https://www.alyshasanfordphoto.com)
 - [Instagram](https://www.instagram.com/messymompreneur)
 - [Facebook](https://www.facebook.com/messymompreneur23)
 - [Pinterest](https://pin.it/7DTvRGw)
