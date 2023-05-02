@@ -13,7 +13,6 @@ layout: null
     <language>en-US</language>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <itunes:author>{{ site.podcast.owner.name }}</itunes:author>
-    
     <itunes:image href="{{ site.url }}{{ site.podcast.image }}" />
     <itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
     <itunes:type>serial</itunes:type>
@@ -36,7 +35,7 @@ layout: null
       <itunes:episodeType>{{ post.episode-type }}</itunes:episodeType>
       <itunes:episode>{{ post.episode }}</itunes:episode>
       <title>{{ post.title | xml_escape }}</title>
-      <description><![CDATA[{{ post.podcast-description | xml_escape }}]]></description>
+      <description><![CDATA[{{ post.podcast-description }}]]></description>
       <enclosure
         length="{{ post.length }}"
         type="{{ post.file-type }}"
