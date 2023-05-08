@@ -31,6 +31,9 @@ If you haven’t already, I’d be so grateful if you’d take a minute to subsc
 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/messy-mompreneur/id1685746602)
 - [Spotify](https://open.spotify.com/show/6uGN3biwajKHhbE69SCA6Z)
+- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubWVzc3ltb21wcmVuZXVyLmNvbS9mZWVkLnhtbA)
+- [Stitcher](https://www.stitcher.com/show/messy-mompreneur)
+- [Pandora](https://www.pandora.com/podcast/messy-mompreneur/PC:1001068449)
 
 <hr>
 
