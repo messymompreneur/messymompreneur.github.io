@@ -39,7 +39,7 @@ layout: null
       <enclosure
         length="{{ post.length }}"
         type="{{ post.file-type }}"
-        url="{{ site.url }}{{ site.podcast.audio-file-base }}{{ post.file-name }}"
+        url="{{ post.file-url }}"
       />
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <link>{{ post.url | prepend: site.url }}</link>

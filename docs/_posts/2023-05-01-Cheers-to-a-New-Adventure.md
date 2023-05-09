@@ -6,7 +6,7 @@ episode-type: full
 explicit: false
 length: 8993856
 file-type: audio/mpeg
-file-name: 01-Episode.mp3
+file-url: https://ia801601.us.archive.org/16/items/01-episode/01-Episode.mp3
 duration: 421
 date:   2023-05-01 07:01:00 -0700
 categories: podcast episode
@@ -17,7 +17,7 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 <div style="padding: 20px;" width="65%" align="center">
   <img src="/assets/img/podcast-cover.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
-    <source src="{{ site.url }}{{ site.podcast.audio-file-base }}01-Episode.mp3">
+    <source src="https://ia801601.us.archive.org/16/items/01-episode/01-Episode.mp3">
   </audio>
 </div>
 
