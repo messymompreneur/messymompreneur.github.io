@@ -1,37 +1,47 @@
 ---
 layout: post
-title: "Erin Audiss"
+title: "Raising Babies & Businesses"
 episode: 3
 episode-type: full
 explicit: false
 length: 59229534
 file-type: audio/mpeg
-file-url: 
+file-url: https://ia601604.us.archive.org/34/items/03-episode/03-Episode.mp3
 duration: 3010
 date: 2023-05-15
 categories: podcast episode
-podcast-description: <p>Hello and Welcome!</p><p>Mother’s Day is this coming weekend, so I wanted to take the opportunity to share a few thoughts with you regarding this holiday. I’ll also be sharing eight great ways to find time for self-care as a busy mom.</p><p>Main topics included in this episode:</p><ul><li>My background as a mama</li><li>My wishes for you this holiday</li><li>Eight ways to find time for self care as a busy mom and why it’s important</li></ul><p>Connect with Alysha:</p><ul><li><a href="https://www.messymompreneur.com">Website</a></li><li><a href="https://www.alyshasanfordphoto.com">Photography Website</a></li><li><a href="https://www.instagram.com/messymompreneur">Instagram</a></li><li><a href="https://www.facebook.com/messymompreneur23">Facebook</a></li><li><a href="https://pin.it/7DTvRGw">Pinterest</a></li><li><a href="https://www.tiktok.com/@messymompreneur">Tik Tok</a></li><li>messymompreneur@gmail.com</li></ul><p>Music licensing information:</p><ul><li><a href="https://thmatc.co/?l=032B32EA">Eli Lev - Dancin' on the Lawn</a></li></ul><p>For full show notes, please visit the <a href="https://www.messymompreneur.com/">website</a>.</p>
+podcast-description: <p>Hello and Welcome!</p><p>On this episode you’ll get to hear from Erin Audiss, a good friend of mine who is rocking the mompreneur life. She is a sweet mama of two and runs two businesses with her husband Micah. We dove deep into the why and how behind Audiss Photo Co. and Audiss Authentic. Make sure to listen to the whole conversation for her tips and advice on all things mompreneurship.</p><p>Main topics included in this episode:</p><ul><li>Her journey into entrepreneurship and eventually mompreneurship</li><li>How she blends travel, mama and work life</li><li>Her tips, hacks, and advice for fellow mompreneurs</li></ul><p>Connect with Erin Audiss:</p><ul><li><a href="https://audissauthentic.com">Company Website</a></li><li><a href="https://audissphotoco.com">Photo Website</a></li><li><a href="https://instagram.com/audiss_authentic">Company Instagram</a></li><li><a href="https://instagram.com/audiss_photo">Photo Instagram</a></li></ul><p>Connect with Alysha:</p><ul><li><a href="https://www.messymompreneur.com">Website</a></li><li><a href="https://www.alyshasanfordphoto.com">Photography Website</a></li><li><a href="https://www.instagram.com/messymompreneur">Instagram</a></li><li><a href="https://www.facebook.com/messymompreneur23">Facebook</a></li><li><a href="https://pin.it/7DTvRGw">Pinterest</a></li><li><a href="https://www.tiktok.com/@messymompreneur">Tik Tok</a></li><li>messymompreneur@gmail.com</li></ul><p>Music licensing information:</p><ul><li><a href="https://thmatc.co/?l=032B32EA">Eli Lev - Dancin' on the Lawn</a></li></ul><p>For full show notes, please visit the <a href="https://www.messymompreneur.com/">website</a>.</p>
+episode-image: https://www.messymompreneur.com/assets/img/raising-babies-and-businesses.png
 keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, messy-mompreneur-podcast, entrepreneur, entrepreneurs, motherhood, work-life-balance, work-at-home-mom, working-mom, mompreneur-life, female-entrepreneur, parenthood, parenting, parenting-podcast, parenthood-podcast, mom-boss, mom-boss-podcast, lady-boss, lady-boss-podcast, boss-mom, boss-mom-podcast, podcast, podcasts, podcasters, podcast-show, podcast-junkie]
 ---
 
 <div style="padding: 20px;" width="65%" align="center">
-  <img src="/assets/img/podcast-cover.png" width="100%" height="auto">
+  <img src="/assets/img/raising-babies-and-businesses.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
-    <source src="">
+    <source src="https://ia601604.us.archive.org/34/items/03-episode/03-Episode.mp3">
   </audio>
 </div>
 
 Hello and welcome!
 
-Mother’s Day is this coming weekend, so I wanted to take the opportunity to share a few thoughts with you regarding this holiday. I’ll also be sharing eight great ways to find time for self-care as a busy mom.
+On this episode you’ll get to hear from Erin Audiss, a good friend of mine who is rocking the mompreneur life. She is a sweet mama of two and runs two businesses with her husband Micah. We dove deep into the “why” and “how” behind Audiss Photo Co. and Audiss Authentic. Make sure to listen to the whole conversation for her tips and advice on all things mompreneurship.
 
 <hr>
 
 ### Main Topics included in this Episode
 
-- My background as a mama
-- My wishes for you this holiday
-- Eight ways to find time for self care as a busy mom and why it’s important
+- Her journey into entrepreneurship and eventually mompreneurship
+- How she blends travel, mama and work life
+- Her tips, hacks, and advice for fellow mompreneurs
+
+<hr>
+
+### Connect with Erin Audiss
+
+- [Company Website](https://www.audissauthentic.com)
+- [Photo Website](https://www.audissphotoco.com)
+- [Company Instagram](https://www.instagram.com/audiss_authentic)
+- [Photo Instagram](https://www.instagram.com/audiss_photo)
 
 <hr>
 
