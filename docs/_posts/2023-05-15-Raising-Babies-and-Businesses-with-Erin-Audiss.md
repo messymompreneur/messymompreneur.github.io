@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Raising Babies & Businesses"
+title: "Raising Babies & Businesses w/ Erin Audiss"
 episode: 3
 episode-type: full
 explicit: false
