@@ -36,6 +36,7 @@ layout: null
       <itunes:episode>{{ post.episode }}</itunes:episode>
       <title>{{ post.title | xml_escape }}</title>
       <description><![CDATA[{{ post.podcast-description }}]]></description>
+      <itunes:image href="{{ post.episode-image }}" />
       <enclosure
         length="{{ post.length }}"
         type="{{ post.file-type }}"
