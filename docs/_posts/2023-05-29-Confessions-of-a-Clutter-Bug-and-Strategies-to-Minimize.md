@@ -6,7 +6,7 @@ episode-type: full
 explicit: false
 length: 11457786
 file-type: audio/mpeg
-file-url: 
+file-url: https://ia902609.us.archive.org/15/items/05-episode_202305/05-Episode.mp3
 duration: 544
 date: 2023-05-29 07:01:00
 categories: podcast episode
@@ -18,7 +18,7 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 <div style="padding: 20px;" width="65%" align="center">
   <img src="/assets/img/podcast-cover.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
-    <source src="">
+    <source src="https://ia902609.us.archive.org/15/items/05-episode_202305/05-Episode.mp3">
   </audio>
 </div>
 
