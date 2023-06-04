@@ -8,7 +8,7 @@ length: 9485762
 file-type: audio/mpeg
 file-url: https://ia902708.us.archive.org/2/items/06-episode_202306/06-Episode.mp3
 duration: 452
-date: 2023-06-02 07:01:00
+date: 2023-06-05 07:01:00
 categories: podcast episode
 podcast-description: <p>Hello and welcome!</p><p>On this quick episode, I talk about trying to manage both working in my business and working in the home, specifically in the kitchen. If I’m not careful to batch my kitchen and meal prep tasks, I’d lose so much time to it all. And as busy mompreneurs, we all know how valuable our limited time truly is.</p><p>Main topics included in this episode:</p><ul><li>My kitchen challenges</li><li>Hacks for meal planning, meal prepping and batch cooking that have been saving me time and effort and that might help you too</li></ul><p>Connect with Alysha:</p><ul><li><a href="https://www.messymompreneur.com">Website</a></li><li><a href="https://www.alyshasanfordphoto.com">Photography Website</a></li><li><a href="https://www.instagram.com/messymompreneur">Instagram</a></li><li><a href="https://www.facebook.com/messymompreneur23">Facebook</a></li><li><a href="https://pin.it/7DTvRGw">Pinterest</a></li><li><a href="https://www.tiktok.com/@messymompreneur">Tik Tok</a></li><li>messymompreneur@gmail.com</li></ul><p>Music licensing information:</p><ul><li><a href="https://thmatc.co/?l=032B32EA">Eli Lev - Dancin' on the Lawn</a></li></ul><p>For full show notes, please visit the <a href="https://www.messymompreneur.com/">website</a>.</p>
 episode-image: https://www.messymompreneur.com/assets/img/podcast-cover.png
