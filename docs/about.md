@@ -49,6 +49,12 @@ If you haven’t already, I’d be so grateful if you’d take a minute to subsc
 
 <hr>
 
+### Want to be a Guest?
+
+If you feel like you might be a great guest for the Messy Mompreneur podcast, send me an [email](mailto:messymompreneur@gmail.com). Tell me a little about yourself and what your passions are. I would love to talk with you.
+
+<hr>
+
 ### Music Licensing Info
 
 Music by Eli Lev - Dancin' on the Lawn
