@@ -6,19 +6,19 @@ episode-type: full
 explicit: false
 length: 62027440
 file-type: audio/mpeg
-file-url: 
+file-url: https://ia902608.us.archive.org/34/items/07-episode/07-Episode.mp3
 duration: 3214
 date: 2023-06-12 07:01:00
 categories: podcast episode
 podcast-description: <p>Hello and welcome back!</p><p>In today’s conversation, we are chatting with Julie, a wife, mama and homemaking blogger living in the Canadian Prairies. She shares her experience with building a pantry from scratch and on a micro budget out of necessity for her family years ago. She also shares what she has learned since then and explains how anyone can gradually grow their pantry on a micro budget if they find themselves in a financial hardship. Make sure to listen to her tips if you’re wanting to create more food security within your home!</p><p>Main topics included in this episode:</p><ul><li>Julie’s method for building a pantry on a micro budget.</li><li>Smart ways to buy and stretch your ingredients.</li><li>Creative food storage solutions for a small space.</li><li>Julie’s weekly rhythm for productivity.</li></ul><p>Connect with Julie:</p><ul><li><a href="https://linktr.ee/mrsprairiewife">Website</a></li><li><a href="https://www.instagram.com/mrsprairiewife/">Instagram</a></li><li><a href="https://www.facebook.com/mrsprairiewife/">Facebook</a></li></ul><p>Resources Mentioned:</p><ul><li>Atomic Habits An Easy & Proven Way to Build Good Habits & Break Bad Ones - book by James Clear</li></ul><p>Connect with Alysha:</p><ul><li><a href="https://www.messymompreneur.com">Website</a></li><li><a href="https://www.alyshasanfordphoto.com">Photography and Baby Goods Website</a></li><li><a href="https://www.instagram.com/messymompreneur">Instagram</a></li><li><a href="https://www.facebook.com/messymompreneur23">Facebook</a></li><li><a href="https://pin.it/7DTvRGw">Pinterest</a></li><li><a href="https://www.tiktok.com/@messymompreneur">Tik Tok</a></li><li>messymompreneur@gmail.com</li></ul><p>Music licensing information:</p><ul><li><a href="https://thmatc.co/?l=032B32EA">Eli Lev - Dancin' on the Lawn</a></li></ul><p>For full show notes, please visit the <a href="https://www.messymompreneur.com/">website</a>.</p>
-episode-image: https://www.messymompreneur.com/assets/img/podcast-cover.png
+episode-image: https://www.messymompreneur.com/assets/img/mastering-the-micro-budget.png
 keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, messy-mompreneur-podcast, entrepreneur, entrepreneurs, motherhood, work-life-balance, work-at-home-mom, working-mom, mompreneur-life, female-entrepreneur, parenthood, parenting, parenting-podcast, parenthood-podcast, mom-boss, mom-boss-podcast, lady-boss, lady-boss-podcast, boss-mom, boss-mom-podcast, podcast, podcasts, podcasters, podcast-show, podcast-junkie]
 ---
 
 <div style="padding: 20px;" width="65%" align="center">
-  <img src="/assets/img/podcast-cover.png" width="100%" height="auto">
+  <img src="/assets/img/mastering-the-micro-budget.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
-    <source src="">
+    <source src="https://ia902608.us.archive.org/34/items/07-episode/07-Episode.mp3">
   </audio>
 </div>
 
