@@ -6,7 +6,7 @@ episode-type: full
 explicit: false
 length: 65515210
 file-type: audio/mpeg
-file-url: 
+file-url: https://ia902700.us.archive.org/2/items/08-episode/08-Episode.mp3
 duration: 3203
 date: 2023-06-15 07:01:00
 categories: podcast episode
@@ -18,7 +18,7 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 <div style="padding: 20px;" width="65%" align="center">
   <img src="/assets/img/cybersecurity.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
-    <source src="">
+    <source src="https://ia902700.us.archive.org/2/items/08-episode/08-Episode.mp3">
   </audio>
 </div>
 
