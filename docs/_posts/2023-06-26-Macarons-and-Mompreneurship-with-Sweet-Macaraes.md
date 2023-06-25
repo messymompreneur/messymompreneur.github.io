@@ -6,7 +6,7 @@ episode-type: full
 explicit: false
 length: 43334314
 file-type: audio/mpeg
-file-url: 
+file-url: https://ia902709.us.archive.org/8/items/09-episode/09-Episode.mp3
 duration: 2286
 date: 2023-06-26 07:01:00
 categories: podcast episode
@@ -18,7 +18,7 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 <div style="padding: 20px;" width="65%" align="center">
   <img src="/assets/img/sweet-macaraes.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
-    <source src="">
+    <source src="https://ia902709.us.archive.org/8/items/09-episode/09-Episode.mp3">
   </audio>
 </div>
 
