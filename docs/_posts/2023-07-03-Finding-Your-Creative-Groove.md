@@ -4,10 +4,10 @@ title: "Finding Your Creative Groove with Jen Jones Donatelli"
 episode: 10
 episode-type: full
 explicit: false
-length: 62027440
+length: 51917009
 file-type: audio/mpeg
 file-url: 
-duration: 3214
+duration: 2739
 date: 2023-07-03 07:01:00
 categories: podcast episode
 podcast-description: <p>Hello and welcome back!</p><p>In today’s conversation, we are chatting with Jen Jones Donatelli. She is a creative life and leadership coach, as well as the founder of Creative Groove—a small business offering courses, coaching, creative mentoring, and community programming around creativity and self-expression. Prior to her work with Creative Groove, Jen worked in various forms of media and entertainment for nearly 20 years. Her resume spans feature films, award shows, talk shows, sitcoms, red carpet reporting, and print/online journalism for outlets including Glamour, REDBOOK, Business Insider, Playboy, Los Angeles Confidential and many more. She is also a mom to 7-year-old twins and very much identifies with the term “messy mompreneur!”. Listen to hear us discuss all things multi-passionate entrepreneurship, inattentive ADHD and mom life.</p><p>Main topics included in this episode:</p><ul><li>Jen’s background and what led her to finding her Creative Groove.</li><li>Her passion for coaching and supporting others in their creative journeys.</li><li>Her weekly rhythm as a mompreneur and how she makes sure to dedicate time to her multiple ventures.</li></ul><p>Connect with Jen:</p><ul><li><a href="https://www.creativegroove.com/">Website</a></li><li><a href="https://www.instagram.com/yourcreativegroove/">Instagram</a></li><li>jen@creativegroove.com</li></ul><p>Resources Mentioned:</p><ul><li><a href="https://www.heymarvelous.com/">https://www.heymarvelous.com/</a></li><li><a href="https://circle.so/">https://circle.so/</a></li></ul><p>Connect with Alysha:</p><ul><li><a href="https://www.messymompreneur.com">Website</a></li><li><a href="https://www.alyshasanfordphoto.com">Photography and Baby Goods Website</a></li><li><a href="https://www.instagram.com/messymompreneur">Instagram</a></li><li><a href="https://www.facebook.com/messymompreneur23">Facebook</a></li><li><a href="https://pin.it/7DTvRGw">Pinterest</a></li><li><a href="https://www.tiktok.com/@messymompreneur">Tik Tok</a></li><li>messymompreneur@gmail.com</li></ul><p>Music licensing information:</p><ul><li><a href="https://thmatc.co/?l=032B32EA">Eli Lev - Dancin' on the Lawn</a></li></ul><p>For full show notes, please visit the <a href="https://www.messymompreneur.com/">website</a>.</p>
