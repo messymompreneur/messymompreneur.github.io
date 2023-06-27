@@ -301,7 +301,7 @@ Well, as we wrap up, if you'd like to allow listeners to follow or connect with 
 
 Speaker 2
 
-Sure. So I love connecting with people on Instagram, so my handle there is your creative groove. And if you'd like to check out my website itsjustcreativegroove.com and I always love to hear from people too. So if you'd like to e-mail me, you can e-mail me at jen.j.en@creativegroove.com.
+Sure. So I love connecting with people on Instagram, so my handle there is your creative groove. And if you'd like to check out my website it's just creativegroove.com and I always love to hear from people too. So if you'd like to e-mail me, you can e-mail me at jen@creativegroove.com.
 
 Speaker 1
 
