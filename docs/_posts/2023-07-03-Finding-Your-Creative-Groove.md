@@ -6,7 +6,7 @@ episode-type: full
 explicit: false
 length: 51917009
 file-type: audio/mpeg
-file-url: 
+file-url: https://ia902600.us.archive.org/10/items/10-episode/10-Episode.mp3
 duration: 2739
 date: 2023-07-03 07:01:00
 categories: podcast episode
@@ -18,7 +18,7 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 <div style="padding: 20px;" width="65%" align="center">
   <img src="/assets/img/creative-groove.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
-    <source src="">
+    <source src="https://ia902600.us.archive.org/10/items/10-episode/10-Episode.mp3">
   </audio>
 </div>
 
