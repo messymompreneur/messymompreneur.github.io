@@ -6,7 +6,7 @@ episode-type: full
 explicit: false
 length: 53591101
 file-type: audio/mpeg
-file-url: 
+file-url: https://ia802705.us.archive.org/28/items/11-episode/11-Episode.mp3
 duration: 2830
 date: 2023-07-10 07:01:00
 categories: podcast episode
@@ -18,7 +18,7 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 <div style="padding: 20px;" width="65%" align="center">
   <img src="/assets/img/battling-burnout.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
-    <source src="">
+    <source src="https://ia802705.us.archive.org/28/items/11-episode/11-Episode.mp3">
   </audio>
 </div>
 
