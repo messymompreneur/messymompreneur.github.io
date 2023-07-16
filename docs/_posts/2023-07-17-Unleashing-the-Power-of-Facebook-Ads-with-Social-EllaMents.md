@@ -6,7 +6,7 @@ episode-type: full
 explicit: false
 length: 34997614
 file-type: audio/mpeg
-file-url: https://ia802705.us.archive.org/28/items/11-episode/11-Episode.mp3
+file-url: https://ia802704.us.archive.org/15/items/12-episode/12-Episode.mp3
 duration: 1805
 date: 2023-07-17 07:01:00
 categories: podcast episode
@@ -18,7 +18,7 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 <div style="padding: 20px;" width="65%" align="center">
   <img src="/assets/img/facebook-ads.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
-    <source src="https://ia802705.us.archive.org/28/items/11-episode/11-Episode.mp3">
+    <source src="https://ia802704.us.archive.org/15/items/12-episode/12-Episode.mp3">
   </audio>
 </div>
 
