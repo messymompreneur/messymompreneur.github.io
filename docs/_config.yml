@@ -32,6 +32,7 @@ author:
   email: messymompreneur@gmail.com
 
 header_pages:
+  - guest.md
   - about.md
 
 # Google Analytics
