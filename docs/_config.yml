@@ -32,6 +32,7 @@ author:
   email: messymompreneur@gmail.com
 
 header_pages:
+  - subscribe.md
   - guest.md
   - about.md
 

@@ -23,16 +23,6 @@ If you haven’t already, I’d be so grateful if you’d take a minute to subsc
 
 <hr>
 
-### Listen on your favorite platform
-
-- [Apple Podcasts](https://podcasts.apple.com/us/podcast/messy-mompreneur/id1685746602)
-- [Spotify](https://open.spotify.com/show/6uGN3biwajKHhbE69SCA6Z)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubWVzc3ltb21wcmVuZXVyLmNvbS9mZWVkLnhtbA)
-- [Stitcher](https://www.stitcher.com/show/messy-mompreneur)
-- [Pandora](https://www.pandora.com/podcast/messy-mompreneur/PC:1001068449)
-
-<hr>
-
 ### Connect with Alysha
 
 - [Bio Site](https://bio.site/alyshasanfordphot/)
@@ -42,12 +32,6 @@ If you haven’t already, I’d be so grateful if you’d take a minute to subsc
 - [Pinterest](https://pin.it/7DTvRGw)
 - [Tik Tok](https://www.tiktok.com/@messymompreneur)
 - [Email](mailto:messymompreneur@gmail.com)
-
-<hr>
-
-### Want to be a Guest?
-
-If you feel like you might be a great guest for the Messy Mompreneur podcast, send me an [email](mailto:messymompreneur@gmail.com). Tell me a little about yourself and what your passions are. I would love to talk with you.
 
 <hr>
 
