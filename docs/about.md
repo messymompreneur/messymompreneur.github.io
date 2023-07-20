@@ -25,7 +25,6 @@ If you haven’t already, I’d be so grateful if you’d take a minute to subsc
 
 ### Connect with Alysha
 
-- [Bio Site](https://bio.site/alyshasanfordphot/)
 - [Photography and Baby Goods Website](https://www.alyshasanfordphoto.com)
 - [Instagram](https://www.instagram.com/messymompreneur)
 - [Facebook](https://www.facebook.com/messymompreneur23)
