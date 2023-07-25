@@ -1,48 +1,46 @@
 ---
 layout: post
-title: "A Baby, a Business and a Rebrand with Skye Atterbury"
-episode: 13
+title: "Listing with Love - A Realtor's Journey with Karissa Pangelina"
+episode: 14
 episode-type: full
 explicit: false
-length: 73069120
+length: 
 file-type: audio/mpeg
-file-url: https://ia902706.us.archive.org/4/items/13-episode/13-Episode.mp3
-duration: 3862
-date: 2023-07-24 07:01:00
+file-url: 
+duration: 
+date: 2023-07-31 07:01:00
 categories: podcast episode
-podcast-description: <p>Hello and welcome back!</p><p>In today’s conversation, we are chatting with Skye Atterbury, a luxury wedding photographer based in southern Oregon. She’s been working professionally as a photographer for over a decade and, in her own words… semi-professionally as a mom for 4 years - because no one is <i>really</i> a PRO in that field. We are talking about all the things, including her rebrand and the “why” behind her business. I can’t wait for you to listen!</p><p>Main topics included in this episode:</p><ul><li>Skye’s journey into mompreneurship</li><li>Her background in and passion for the photography industry</li><li>The rebrand that made a crucial pivot in her business, and advice she shares for anyone considering a rebrand</li><li>How her husband plays a vital role in both her business and their home life</li><li>Lots of behind the scenes tidbits and what’s next for her business</li></ul><p>Connect with Skye:</p><ul><li><a href="https://www.atterburyco.com/">Website</a></li><li><a href="https://www.instagram.com/theatterburyco/">Instagram</a></li><li><a href="https://www.facebook.com/theatterburycompany/">Facebook</a></li></ul><p>Connect with Alysha:</p><ul><li><a href="https://www.messymompreneur.com">Website</a></li><li><a href="https://www.alyshasanfordphoto.com">Photography and Baby Goods Website</a></li><li><a href="https://www.instagram.com/messymompreneur">Instagram</a></li><li><a href="https://www.facebook.com/messymompreneur23">Facebook</a></li><li><a href="https://pin.it/7DTvRGw">Pinterest</a></li><li><a href="https://www.tiktok.com/@messymompreneur">Tik Tok</a></li><li>messymompreneur@gmail.com</li></ul><p>Music licensing information:</p><ul><li><a href="https://thmatc.co/?l=032B32EA">Eli Lev - Dancin' on the Lawn</a></li></ul><p>For full show notes, please visit the <a href="https://www.messymompreneur.com/">website</a>.</p>
-episode-image: https://www.messymompreneur.com/assets/img/baby-business-rebrand.png
+podcast-description: <p>Hello and welcome back!</p><p>In today’s conversation, we are chatting with my friend Karissa Pangelina. I met Karissa over a decade ago when she hired me for her oldest daughter’s 6-month photo session. Since then, I’ve had the honor of photographing many more special milestones for their family through the years and developing a friendship with her. She’s an incredibly sweet and hardworking wife, mama of 2 and a successful realtor here in Roseburg, OR. She’s sharing her journey into motherhood and her career, and I’m excited for you to listen!</p><p>Main topics included in this episode:</p><ul><li>Karissa’s background, journey into motherhood and business</li><li>The passion behind creating a career that allows her to be a very involved mom</li><li>Her experience and drive as a real estate agent</li><li>Some exciting things she is looking forward to over the next couple of years</li><</ul><p>Connect with Karissa:</p><ul><li><a href="https://www.facebook.com/KPangelinaRealEstate/">Facebook</a></li><li>Website - Coming soon, follow her Facebook Page for updates and info!</li></ul><p>Connect with Alysha:</p><ul><li><a href="https://www.messymompreneur.com">Website</a></li><li><a href="https://www.alyshasanfordphoto.com">Photography and Baby Goods Website</a></li><li><a href="https://www.instagram.com/messymompreneur">Instagram</a></li><li><a href="https://www.facebook.com/messymompreneur23">Facebook</a></li><li><a href="https://pin.it/7DTvRGw">Pinterest</a></li><li><a href="https://www.tiktok.com/@messymompreneur">Tik Tok</a></li><li>messymompreneur@gmail.com</li></ul><p>Music licensing information:</p><ul><li><a href="https://thmatc.co/?l=032B32EA">Eli Lev - Dancin' on the Lawn</a></li></ul><p>For full show notes, please visit the <a href="https://www.messymompreneur.com/">website</a>.</p>
+episode-image: https://www.messymompreneur.com/assets/img/listing-with-love.png
 keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, messy-mompreneur-podcast, entrepreneur, entrepreneurs, motherhood, work-life-balance, work-at-home-mom, working-mom, mompreneur-life, female-entrepreneur, parenthood, parenting, parenting-podcast, parenthood-podcast, mom-boss, mom-boss-podcast, lady-boss, lady-boss-podcast, boss-mom, boss-mom-podcast, podcast, podcasts, podcasters, podcast-show, podcast-junkie]
 ---
 
 <div style="padding: 20px;" width="65%" align="center">
-  <img src="/assets/img/baby-business-rebrand.png" width="100%" height="auto">
+  <img src="/assets/img/listing-with-love.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
-    <source src="https://ia902706.us.archive.org/4/items/13-episode/13-Episode.mp3">
+    <source src="">
   </audio>
 </div>
 
 Hello and welcome back!
 
-In today’s conversation, we are chatting with Skye Atterbury, a luxury wedding photographer based in southern Oregon. She’s been working professionally as a photographer for over a decade and, in her own words… semi-professionally as a mom for 4 years - because no one is *really* a PRO in that field. We are talking about all the things, including her rebrand and the “why” behind her business. I can’t wait for you to listen!
+In today’s conversation, we are chatting with my friend Karissa Pangelina. I met Karissa over a decade ago when she hired me for her oldest daughter’s 6-month photo session. Since then, I’ve had the honor of photographing many more special milestones for their family through the years and developing a friendship with her. She’s an incredibly sweet and hardworking wife, mama of 2 and a successful realtor here in Roseburg, OR. She’s sharing her journey into motherhood and her career, and I’m excited for you to listen!
 
 <hr>
 
 ### Main Topics included in this Episode
 
-- Skye’s journey into mompreneurship
-- Her background in and passion for the photography industry
-- The rebrand that made a crucial pivot in her business, and advice she shares for anyone considering a rebrand
-- How her husband plays a vital role in both her business and their home life
-- Lots of behind the scenes tidbits and what’s next for her business
+- Karissa’s background, journey into motherhood and business
+- The passion behind creating a career that allows her to be a very involved mom
+- Her experience and drive as a real estate agent
+- Some exciting things she is looking forward to over the next couple of years
   
 <hr>
 
-### Connect with Skye
+### Connect with Karissa
 
-- [Website](https://www.atterburyco.com/)
-- [Instagram](https://www.instagram.com/theatterburyco/)
-- [Facebook](https://www.facebook.com/theatterburycompany)
+- [Facebook](https://www.facebook.com/KPangelinaRealEstate/)
+- Website - Coming soon, follow her Facebook Page for updates and info!
 
 <hr>
 
