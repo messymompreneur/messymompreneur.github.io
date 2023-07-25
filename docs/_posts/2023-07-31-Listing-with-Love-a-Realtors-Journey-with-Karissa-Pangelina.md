@@ -4,10 +4,10 @@ title: "Listing with Love - A Realtor's Journey with Karissa Pangelina"
 episode: 14
 episode-type: full
 explicit: false
-length: 
+length: 49398721
 file-type: audio/mpeg
-file-url: 
-duration: 
+file-url: https://ia902705.us.archive.org/29/items/14-episode/14-Episode.mp3
+duration: 2628
 date: 2023-07-31 07:01:00
 categories: podcast episode
 podcast-description: <p>Hello and welcome back!</p><p>In today’s conversation, we are chatting with my friend Karissa Pangelina. I met Karissa over a decade ago when she hired me for her oldest daughter’s 6-month photo session. Since then, I’ve had the honor of photographing many more special milestones for their family through the years and developing a friendship with her. She’s an incredibly sweet and hardworking wife, mama of 2 and a successful realtor here in Roseburg, OR. She’s sharing her journey into motherhood and her career, and I’m excited for you to listen!</p><p>Main topics included in this episode:</p><ul><li>Karissa’s background, journey into motherhood and business</li><li>The passion behind creating a career that allows her to be a very involved mom</li><li>Her experience and drive as a real estate agent</li><li>Some exciting things she is looking forward to over the next couple of years</li></ul><p>Connect with Karissa:</p><ul><li><a href="https://www.facebook.com/KPangelinaRealEstate/">Facebook</a></li><li>Website - Coming soon, follow her Facebook Page for updates and info!</li></ul><p>Connect with Alysha:</p><ul><li><a href="https://www.messymompreneur.com">Website</a></li><li><a href="https://www.alyshasanfordphoto.com">Photography and Baby Goods Website</a></li><li><a href="https://www.instagram.com/messymompreneur">Instagram</a></li><li><a href="https://www.facebook.com/messymompreneur23">Facebook</a></li><li><a href="https://pin.it/7DTvRGw">Pinterest</a></li><li><a href="https://www.tiktok.com/@messymompreneur">Tik Tok</a></li><li>messymompreneur@gmail.com</li></ul><p>Music licensing information:</p><ul><li><a href="https://thmatc.co/?l=032B32EA">Eli Lev - Dancin' on the Lawn</a></li></ul><p>For full show notes, please visit the <a href="https://www.messymompreneur.com/">website</a>.</p>
@@ -18,7 +18,7 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 <div style="padding: 20px;" width="65%" align="center">
   <img src="/assets/img/listing-with-love.png" width="100%" height="auto">
   <audio style="width: 100%;" controls>
-    <source src="">
+    <source src="https://ia902705.us.archive.org/29/items/14-episode/14-Episode.mp3">
   </audio>
 </div>
 
@@ -68,15 +68,15 @@ Music by Eli Lev - Dancin' on the Lawn
 
 Speaker 1
 
-Hello and welcome back to the Messy Mompreneur podcast. I'm your host, Alysha Sanford, and I'm so happy to have you here today. We're chatting with my friend Karissa Pangelina. I met Karissa over a decade ago now and that was back when she hired me for her oldest daughters. Six month photo session. Since then I've had the honor of photographing. Many more special milestones for their family through the years and developing a friendship with her. She's an incredibly sweet and hard working wife, Mama of two and a successful realtor here in Roseburg. She's sharing her journey today into motherhood and her career, and I'm excited for you to listen. Hi Karissa. Thank you so much for joining me. I'm so excited to have you on as we start. Can you share a little bit about yourself and your family?
+Hello and welcome back to the Messy Mompreneur podcast. I'm your host, Alysha Sanford, and I'm so happy to have you here today. We're chatting with my friend Karissa Pangelina. I met Karissa over a decade ago now and that was back when she hired me for her oldest daughters. Six month photo session. Since then I've had the honor of photographing many more special milestones for their family through the years and developing a friendship with her. She's an incredibly sweet and hard working wife, Mama of two and a successful realtor here in Roseburg. She's sharing her journey today into motherhood and her career, and I'm excited for you to listen. Hi Karissa. Thank you so much for joining me. I'm so excited to have you on as we start, can you share a little bit about yourself and your family?
 
 Speaker 2
 
-Hi yes, so I am a real estate agent here in Roseburg. I've lived. Here my whole life besides. Leaving for college and meeting my husband. We've been together for. 15 years now, married for 11:00 and we have two little girls, Cameron and Pearson. And they are 12:00 and 7:00. And they keep us pretty busy, Alan just recently changed jobs. So a lot of people know him around town, from Applebee's and Costco. But now he's kind of more hidden away, so he's out at Caddock Electronics now. So nice.
+Hi yes, so I am a real estate agent here in Roseburg. I've lived here my whole life besides leaving for college and meeting my husband. We've been together for 15 years now, married for 11 and we have two little girls, Cameron and Pearson. And they are 12 and 7. And they keep us pretty busy, Alan just recently changed jobs. So a lot of people know him around town, from Applebee's and Costco. But now he's kind of more hidden away, so he's out at Caddock Electronics now so.
 
 Speaker 1
 
-OK, so I want to also hear a bit about your journey into motherhood. So let's start there and then we'll work towards. Your journey into your career now.
+Nice. OK, so I want to also hear a bit about your journey into motherhood. So let's start there and then we'll work towards. Your journey into your career now.
 
 Speaker 2
 
