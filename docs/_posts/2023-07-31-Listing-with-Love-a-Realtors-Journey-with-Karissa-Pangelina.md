@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Listing with Love - A Realtor's Journey with Karissa Pangelina"
+title: "Listing with Love: A Realtor's Journey with Karissa Pangelina"
 episode: 14
 episode-type: full
 explicit: false
