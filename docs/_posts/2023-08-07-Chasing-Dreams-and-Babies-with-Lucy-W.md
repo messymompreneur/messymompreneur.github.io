@@ -97,7 +97,7 @@ And I only have one, kiddo, so I can only imagine how 3 plus all the ventures an
 
 Speaker 2
 
-Yeah
+Yeah.
 
 Speaker 1
 
