@@ -33,7 +33,9 @@ author:
 
 header_pages:
   - subscribe.md
-  - guest.md
+  - news.md
+  # Removed guest until the podcast starts again
+  # - guest.md
   - about.md
 
 # Google Analytics
