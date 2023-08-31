@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Become a Guest
-permalink: /become-a-guest/
+# Removed guest until the podcast starts again
+# permalink: /become-a-guest/
 keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, messy-mompreneur-podcast,  entrepreneur, entrepreneurs, motherhood, work-life balance, work-at-home-mom, working-mom, mompreneur-life, female-entrepreneur,  parenthood, parenting, parenting-podcast, parenthood-podcast,  mom-boss, mom-boss-podcast, lady-boss, lady-boss-podcast, boss-mom, boss-mom-podcast, podcast, podcasts, podcasters, podcast-show, podcast-junkie, about, about-page]
 ---
 
