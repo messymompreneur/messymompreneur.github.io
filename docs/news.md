@@ -7,6 +7,14 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 
 <hr>
 
+### January 15th, 2024
+
+**WE ARE BACK!**
+
+Thank you all for understanding our need for a pause. We really appreciate it. Starting today we will be releasing a new episode every week!
+
+<hr>
+
 ### August 31st, 2023
 
 <p style="margin: 20px;" align="center">
