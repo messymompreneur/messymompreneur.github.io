@@ -8,7 +8,7 @@ length: 8338750
 file-type: audio/mpeg
 file-url: https://ia600202.us.archive.org/9/items/22-episode/22-Episode.mp3
 duration: 388
-date: 2024-02-18 08:01:00
+date: 2024-02-26 08:01:00
 categories: podcast episode
 podcast-description: <p>Hello and welcome!</p><p>Today I wanted to share some reverse engineering hacks to reduce photo session stress! You’ve likely heard the popular phrases recently of, “backwards math”, “mom math”, “girl math” … it’s all relative to reverse engineering!</p><p>I’d love it if you’d connect with me over on Instagram! It’s where I’m most active and I love to share behind the scenes of mompreneur life on that platform.</p><p>Main topics included in this episode:</p><ul><li>4 ways to reverse engineer your photo session to reduce stress</li><li>Examples and questions to ask yourself in that process</li></ul><p>Connect with Alysha:</p><ul><li><a href="https://www.messymompreneur.com">Website</a></li><li><a href="https://www.alyshasanfordphoto.com">Photography Website</a></li><li><a href="https://www.shopltk.com/explore/alyshasanford.photo">LTK Shop</a></li><li><a href="https://www.instagram.com/messymompreneur">Instagram</a></li><li><a href="https://www.facebook.com/messymompreneur23">Facebook</a></li><li><a href="https://pin.it/7DTvRGw">Pinterest</a></li><li><a href="https://www.tiktok.com/@messymompreneur">Tik Tok</a></li><li>messymompreneur@gmail.com</li></ul><p>Music licensing information:</p><ul><li><a href="https://thmatc.co/?l=032B32EA">Eli Lev - Dancin' on the Lawn</a></li></ul><p>For full show notes, please visit the <a href="https://www.messymompreneur.com/">website</a>.</p>
 episode-image: https://www.messymompreneur.com/assets/img/six-things.jpg
