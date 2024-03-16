@@ -11,7 +11,7 @@ keywords: [Mom, moms, mom-podcast, mompreneur, mompreneurs, messy-mompreneur, me
 
 **WE ARE BACK!**
 
-Thank you all for understanding our need for a pause. We really appreciate it. Starting today we will be releasing a new episode every week!
+Thank you all for understanding our need for a pause. We really appreciate it. Starting today we will be releasing a new episode every two weeks!
 
 <hr>
 
