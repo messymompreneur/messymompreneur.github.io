@@ -19,6 +19,4 @@ So, grab your phone, hit that subscribe button, and let's dive into this wild ri
 
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/messy-mompreneur/id1685746602)
 - [Spotify](https://open.spotify.com/show/6uGN3biwajKHhbE69SCA6Z)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubWVzc3ltb21wcmVuZXVyLmNvbS9mZWVkLnhtbA)
-- [Stitcher](https://www.stitcher.com/show/messy-mompreneur)
 - [Pandora](https://www.pandora.com/podcast/messy-mompreneur/PC:1001068449)
