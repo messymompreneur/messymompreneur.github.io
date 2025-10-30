@@ -34,8 +34,7 @@ author:
 header_pages:
   - subscribe.md
   - news.md
-  # Removed guest until the podcast starts again
-  # - guest.md
+  - guest.md
   - about.md
 
 # Google Analytics
@@ -76,14 +75,18 @@ podcast:
 
    If you haven’t already, I’d be so grateful if you’d take a minute to subscribe to the podcast and leave a review. If you’d share this podcast with other’s that may find it helpful, that would also be incredibly appreciated. I’d really love to connect with you on social media! Shoot me a DM with any specific topics you want to hear more about or questions that you’d like me to ask fellow mompreneurs during guest interviews. You can find me on most platforms with the handle @messymompreneur. I’ll share my contact info in the show notes as well.
 
-minima:
-  social_links:
-    - { platform: twitter, user_url: "https://twitter.com/messymompreneur" }
-    - { platform: instagram, user_url: "https://instagram.com/messymompreneur" }
-    - { platform: pinterest, user_url: "https://www.pinterest.com/messymompreneur/" }
+# minima:
+#   social_links:
+#     - { platform: twitter, user_url: "https://twitter.com/messymompreneur" }
+#     - { platform: instagram, user_url: "https://instagram.com/messymompreneur" }
+#     - { platform: pinterest, user_url: "https://www.pinterest.com/messymompreneur/" }
+social_links:
+  - title: Messy Mompreneur X
+  - icon: x-twitter
+  - "https://twitter.com/messymompreneur"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima"
 # remote_theme: pages-themes/slate@0.2.0
 plugins:
   - jekyll-feed
