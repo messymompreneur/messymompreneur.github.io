@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Real Talk - Pivoting Your Business After a Hard Life Season"
+title: "A Fall Content Rhythm - How to Create & Repurpose Easily When Life is Full"
 episode: 25
 episode-type: full
 explicit: false
